@@ -18,6 +18,6 @@ Experienced working on startups as customer service analyst and team lead.
 
 ## Projects:
 
-* **Sales analysis:** 
+* **Data visualization with sales analysis:** https://bit.ly/3iQgcmd
 ---
 
